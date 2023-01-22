@@ -90,9 +90,9 @@ html,body{
 .wrapper .twitter:hover .tooltip:before{
   background: #46C1F6;
 }
-.wrapper .instagram:hover span,
-.wrapper .instagram:hover .tooltip,
-.wrapper .instagram:hover .tooltip:before{
+.wrapper .tiktok:hover span,
+.wrapper .tiktok:hover .tooltip,
+.wrapper .tiktok:hover .tooltip:before{
   background: #e1306c;
 }
 .wrapper .github:hover span,
