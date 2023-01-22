@@ -80,9 +80,9 @@ html,body{
 .wrapper .icon:hover .tooltip{
   text-shadow: 0px -1px 0px rgba(0,0,0,0.4);
 }
-.wrapper .facebook:hover span,
-.wrapper .facebook:hover .tooltip,
-.wrapper .facebook:hover .tooltip:before{
+.wrapper .discord:hover span,
+.wrapper .discord:hover .tooltip,
+.wrapper .discord:hover .tooltip:before{
   background: #3B5999;
 }
 .wrapper .twitter:hover span,
